@@ -26,12 +26,12 @@ education:
       year: ""
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon: 
+last_name: Köhle
 role: Computer Science Student
 highlight_name: true
-title: Kay
-first_name: Alice
+title: 
+first_name: Kay
 email: ""
 ---
 {style="text-align: justify;"}
