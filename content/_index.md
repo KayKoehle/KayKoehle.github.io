@@ -27,7 +27,7 @@ sections:
         - title: MSc in Informatics
           company: Ludwig-Maximilians-Universität
           company_url: ''
-          company_logo: lmu
+          company_logo: 
           location: Munich
           date_start: ''
           date_end: '2023-03-31'
@@ -35,7 +35,7 @@ sections:
         - title: BSc in Mediainformatics
           company: Ludwig-Maximilians-Universität
           company_url: ''
-          company_logo: lmu
+          company_logo: 
           location: Munich
           date_start: ''
           date_end: '2020-12-31'
