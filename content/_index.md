@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Education
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -24,22 +24,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: MSc in Informatics
-          company: Ludwig-Maximilians-Universität
+        - title: Msc Informatics
+          company: LMU Munich
           company_url: ''
-          company_logo: 
+          company_logo: org-gc
           location: Munich
-          date_start: ''
-          date_end: '2023-03-31'
-          description:
-        - title: BSc in Mediainformatics
-          company: Ludwig-Maximilians-Universität
+          date_start: '2020-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: BSc Media Informatics
+          company: LMU Munich
           company_url: ''
-          company_logo: 
+          company_logo: org-x
           location: Munich
-          date_start: ''
+          date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description:
+          description: 
     design:
       columns: '2'
   - block: portfolio
