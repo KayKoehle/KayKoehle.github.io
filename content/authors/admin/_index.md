@@ -16,7 +16,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/kay-koehle/
-organizations: []
+organizations:
+  - name: LMU Munich
 education:
   courses:
     - course: MSc in Informatics
