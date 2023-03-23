@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -24,27 +24,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: MSc in Informatics
+          company: Ludwig-Maximilians-Universität
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          company_logo: lmu
+          location: Munich
+          date_start: ''
+          date_end: '2023-03-31'
+          description:
+        - title: BSc in Mediainformatics
+          company: Ludwig-Maximilians-Universität
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
+          company_logo: lmu
+          location: Munich
+          date_start: ''
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description:
     design:
       columns: '2'
   - block: portfolio
