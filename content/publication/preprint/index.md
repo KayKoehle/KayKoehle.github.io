@@ -36,7 +36,7 @@ url_project: ""
 publication_short: ""
 url_source: "#"
 url_video: "#"
-publication: ""
+publication: In ACM Transactions on Computer-Human InteractionVolume 28Issue 6
 featured: false
 date: 2019-04-07T00:00:00Z
 url_slides: ""
@@ -55,5 +55,5 @@ image:
 publishDate: 2017-01-01T00:00:00Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: https://dl.acm.org/doi/10.1145/3472617
+doi: https://doi.org/10.1145/3472617
 ---
