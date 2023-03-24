@@ -17,6 +17,6 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: icon-512.png
+  filename: icon-192.png
 url_code: ""
 ---
