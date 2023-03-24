@@ -43,7 +43,7 @@ url_slides: ""
 title: "Remote VR Studies: A Framework for Running Virtual Reality Studies
   Remotely Via Participant-Owned HMDs"
 tags:
-  - Source Themes
+  - Virtual reality
 links:
   - name: Custom Link
     url: http://example.org
