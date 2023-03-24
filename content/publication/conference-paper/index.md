@@ -1,87 +1,55 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: "The player’s health is one of the most pervasive components in
+  computer games. However, in virtual reality games, it is unclear how different
+  representations of player health function compared to traditional flat-screen
+  games. Because the viewpoint changes based on the player’s head movement,
+  non-diegetic UI elements may not be ideal. Also, the sense of embodiment in VR
+  provides opportunities to experiment with diegetic ways of communicating the
+  player’s health. To investigate different implementations of player health in
+  VR games, we developed three health interfaces and evaluated them in a shooter
+  game. The health interfaces included: 1) A non-diegetic health bar, visible on
+  the screen at all times, 2) A diegetic health value on a virtual wristwatch,
+  and 3) A diegetic physical interface, where lost health results in trembling
+  and slower movement. 37 participants played the game using all three health
+  interfaces and provided feedback. We found that all three interfaces had their
+  own strengths. The non-diegetic health bar was seen as suitable for
+  multi-player games, while the wristwatch was seen as suitable for
+  single-player, story-driven games. The physical interface was liked for its
+  impact on gameplay, and was also seen as suitable for story-driven games."
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Matthias Hoppe
+  - Albrecht Schmidt & Ville Mäkelä
+summary: ""
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+author_notes: []
+publication_short: ""
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+publication: In INTERACT 2021
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+title: Diegetic and Non-diegetic Health Interfaces in VR Shooter Games
+tags:
+  - Virtual reality
+  - Games
+  - Diegetic interfaces
+  - First-person shooters
+  - Game design
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: watch.png
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+doi: https://doi.org/10.1007/978-3-030-85613-7_1
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
