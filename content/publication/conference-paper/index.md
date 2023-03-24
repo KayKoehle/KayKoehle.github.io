@@ -33,9 +33,9 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: In INTERACT 2021
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-title: Diegetic and Non-diegetic Health Interfaces in VR Shooter Games
+title: Diegetic and Non-diegetic Health Interfaces in VR Shooter Gamess
 tags:
   - Virtual reality
   - Games
@@ -48,7 +48,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: watch.png
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: https://doi.org/10.1007/978-3-030-85613-7_1
