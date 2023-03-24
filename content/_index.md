@@ -31,12 +31,7 @@ sections:
           location: Munich
           date_start: '2020-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description:
         - title: BSc Media Informatics
           company: LMU Munich
           company_url: ''
