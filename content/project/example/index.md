@@ -5,7 +5,7 @@ summary: A flutter app for my party card game.
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
-url_slides: ""
+url_slides: 
 title: Points Don't Matter
 subtitle: ""
 tags: []
