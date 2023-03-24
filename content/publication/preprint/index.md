@@ -36,9 +36,9 @@ url_project: ""
 publication_short: ""
 url_source: "#"
 url_video: "#"
-publication: In ACM Transactions on Computer-Human InteractionVolume 28Issue 6
+publication: In ACM Transactions on Computer-Human Interaction, Volume 28, Issue 6
 featured: false
-date: 2019-04-07T00:00:00Z
+date: 2019-04-07T00:00:00.000Z
 url_slides: ""
 title: "Remote VR Studies: A Framework for Running Virtual Reality Studies
   Remotely Via Participant-Owned HMDs"
@@ -52,7 +52,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: https://doi.org/10.1145/3472617
