@@ -27,7 +27,7 @@ sections:
         - title: Msc Informatics
           company: LMU Munich
           company_url: ''
-          company_logo: 
+          company_logo: lmu
           location: Munich
           date_start: '2020-01-01'
           date_end: ''
@@ -35,7 +35,7 @@ sections:
         - title: BSc Media Informatics
           company: LMU Munich
           company_url: ''
-          company_logo: 
+          company_logo: lmu
           location: Munich
           date_start: '2016-01-01'
           date_end: '2020-12-31'
