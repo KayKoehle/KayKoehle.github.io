@@ -35,7 +35,7 @@ publication: In INTERACT 2021
 featured: true
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-title: Diegetic and Non-diegetic Health Interfaces in VR Shooter Gamess
+title: Diegetic and Non-diegetic Health Interfaces in VR Shooter Games
 tags:
   - Virtual reality
   - Games
