@@ -25,12 +25,12 @@ authors:
   - Matthias Hoppe
   - Albrecht Schmidt & Ville Mäkelä
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset:
 url_project: ""
 author_notes: []
 publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source:
+url_video:
 publication: INTERACT 2021
 featured: false
 date: 2013-07-01T00:00:00.000Z
@@ -52,6 +52,6 @@ image:
   filename: watch.png
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code:
 doi: https://doi.org/10.1007/978-3-030-85613-7_1
 ---
