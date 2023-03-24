@@ -29,16 +29,16 @@ sections:
           company_url: ''
           company_logo: lmu
           location: Munich
-          date_start: '2020-01-01'
-          date_end: ''
+          date_start: '2020-10-01'
+          date_end: '2023-03-10'
           description:
         - title: BSc Media Informatics
           company: LMU Munich
           company_url: ''
           company_logo: lmu
           location: Munich
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2016-10-01'
+          date_end: '2020-09-30'
           description: 
     design:
       columns: '2'
