@@ -26,11 +26,11 @@ education:
       year: ""
 superuser: true
 status:
-  icon: 
+  ? icon
 last_name: Köhle
 role: Computer Science Student
 highlight_name: true
-title: 
+title: Kay Köhle
 first_name: Kay
 email: ""
 ---
