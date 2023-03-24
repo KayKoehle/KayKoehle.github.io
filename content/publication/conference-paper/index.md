@@ -25,15 +25,15 @@ authors:
   - Matthias Hoppe
   - Albrecht Schmidt & Ville Mäkelä
 summary: ""
-url_dataset:
+url_dataset: null
 url_project: ""
 author_notes: []
 publication_short: ""
-url_source:
-url_video:
+url_source: null
+url_video: null
 publication: INTERACT 2021
 featured: false
-date: 2013-07-01T00:00:00.000Z
+date: 2021-08-26T00:00:00.000Z
 url_slides: ""
 title: Diegetic and Non-diegetic Health Interfaces in VR Shooter Games
 tags:
@@ -52,6 +52,6 @@ image:
   filename: watch.png
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code:
+url_code: null
 doi: https://doi.org/10.1007/978-3-030-85613-7_1
 ---
