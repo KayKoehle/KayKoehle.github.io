@@ -9,6 +9,6 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-de:
-  languageCode: de
-  contentDir: content/de
+#de:
+#  languageCode: de
+#  contentDir: content/de
