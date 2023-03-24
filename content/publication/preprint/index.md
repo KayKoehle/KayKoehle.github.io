@@ -14,7 +14,7 @@ abstract: We investigate opportunities and challenges of running virtual reality
   practices. Our work is valuable for Human-Computer Interaction (HCI)
   researchers conducting VR studies outside labs.
 slides: ""
-url_pdf:
+url_pdf: null
 publication_types:
   - "2"
 authors:
@@ -30,16 +30,16 @@ authors:
   - Matthias Hoppe
   - Albrecht Schmidt
   - Florian Alt
-summary:
-url_dataset:
-url_project:
-publication_short:
-url_source:
-url_video:
-publication: In ACM Transactions on Computer-Human Interaction, Volume 28, Issue 6
+summary: null
+url_dataset: null
+url_project: null
+publication_short: null
+url_source: null
+url_video: null
+publication: ACM Transactions on Computer-Human Interaction, Volume 28, Issue 6
 featured: false
 date: 2021-11-15T01:00:00.000Z
-url_slides:
+url_slides: null
 title: "Remote VR Studies: A Framework for Running Virtual Reality Studies
   Remotely Via Participant-Owned HMDs"
 tags:
@@ -50,7 +50,7 @@ image:
   focal_point: ""
   preview_only: false
 publishDate: 2021-11-15T00:00:00.000Z
-url_poster:
-url_code:
+url_poster: null
+url_code: null
 doi: https://doi.org/10.1145/3472617
 ---
