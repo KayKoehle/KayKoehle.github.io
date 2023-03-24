@@ -32,10 +32,10 @@ authors:
   - Florian Alt
 summary:
 url_dataset:
-url_project: 
+url_project:
 publication_short:
 url_source:
-url_video: 
+url_video:
 publication: In ACM Transactions on Computer-Human Interaction, Volume 28, Issue 6
 featured: false
 date: 2021-11-15T01:00:00.000Z
@@ -44,9 +44,6 @@ title: "Remote VR Studies: A Framework for Running Virtual Reality Studies
   Remotely Via Participant-Owned HMDs"
 tags:
   - Virtual reality
-links:
-  - name: 
-    url:
 projects: []
 image:
   caption: ""
