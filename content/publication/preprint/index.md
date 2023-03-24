@@ -38,7 +38,7 @@ url_source: "#"
 url_video: "#"
 publication: In ACM Transactions on Computer-Human Interaction, Volume 28, Issue 6
 featured: false
-date: 2019-04-07T00:00:00.000Z
+date: 2021-11-15T01:00:00.000Z
 url_slides: ""
 title: "Remote VR Studies: A Framework for Running Virtual Reality Studies
   Remotely Via Participant-Owned HMDs"
