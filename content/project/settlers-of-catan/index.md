@@ -3,6 +3,8 @@ title: Settlers of Catan
 date: 2023-03-25T18:57:13.860Z
 draft: false
 featured: false
+tags:
+  - University Projects
 image:
   filename: catan.jpg
   focal_point: Smart
