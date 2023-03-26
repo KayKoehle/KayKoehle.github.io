@@ -3,6 +3,8 @@ title: Quantum Computing Practical
 date: 2023-03-25T19:46:29.281Z
 draft: false
 featured: false
+tags:
+  - University Projects
 image:
   filename: quantumcircuit.png
   focal_point: Smart
