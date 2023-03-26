@@ -3,6 +3,8 @@ title: VArt
 date: 2023-03-25T19:28:11.107Z
 draft: false
 featured: false
+tags:
+  - University Projects
 image:
   filename: vart.png
   focal_point: Smart
