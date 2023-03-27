@@ -18,6 +18,6 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: icon-512.png
+  filename: pointsdontmatter.png
 url_code: ""
 ---
